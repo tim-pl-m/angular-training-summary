@@ -1,0 +1,3 @@
+[submodule "pluralsight/wedding-site-public"]
+	path = pluralsight/wedding-site-public
+	url = https://github.com/skammers/wedding-site-public.git
